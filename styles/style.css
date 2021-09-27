@@ -15,7 +15,13 @@ body{
     height: 100vh;
     background:  url('../imgs/4028953.jpg'); 
     background-size: cover;
-    ;
+    
+}
+.project_page{
+    height: 100vh;
+    background:  url('../imgs/wood_bg.jpg'); 
+    background-size: cover;
+    
 }
 
 .intro{
