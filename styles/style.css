@@ -1,0 +1,24 @@
+body{
+    background-color: #f3f2f2;
+}
+
+.home{
+    height: 100vh;
+    background: linear-gradient(rgba(15, 15, 15, 0.795), 
+    rgba(0, 0, 0, 0.335)),
+    url('../imgs/background.jpg');
+    background-size: cover;
+    ;
+}
+
+.intro{
+    color: whitesmoke;
+    padding:10% 22% ;
+    text-align:justify;
+    font-size:20px;
+    font-weight:400px;
+}
+
+.name{
+    font-size:50px;
+}
