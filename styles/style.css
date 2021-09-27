@@ -24,6 +24,12 @@ body{
     
 }
 
+.contact_page{
+    height: 100vh;
+    background:  url('../imgs/contact_bg.jpg'); 
+    background-size: cover;
+    
+}
 .intro{
     color: whitesmoke;
     padding:10% 22% ;
